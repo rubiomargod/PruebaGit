@@ -1,1 +1,2 @@
-Alumno Luis Antonio Zerme;o Mu;oz
+Alumno: Luis Antonio Zerme;o Mu;oz
+Materia: Administraccion de Base de Datos
