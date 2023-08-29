@@ -1,2 +1,4 @@
 Alumno: Luis Antonio Zerme;o Mu;oz
 Materia: Administraccion de Base de Datos
+Escuela: Tec Lagos de Moreno
+sin0
